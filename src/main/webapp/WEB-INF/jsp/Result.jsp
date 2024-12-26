@@ -37,7 +37,7 @@ background: linear-gradient(to right, #fec76f 0%, #7eadcb 100%);
 <title>Bhanu Bio</title>
 </head>
 <body>
-<h1>All.! This is<span id="y"> ${name} </span></h1>
+<h1>Hi All.! This is<span id="y"> ${name} </span></h1>
 <a href="https://ibb.co/2yww3GT"><img src="https://i.ibb.co/f2bbdjs/B.jpg" alt="B" border="0" id="A"></a>
 <button id="B"><a href="https://bhanuprakash-resume.tiiny.site/">Resume</a>
 </button>
